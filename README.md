@@ -11,7 +11,7 @@ This Flutter project is a starting point for integrating **Google Sign-In** func
 
 ### Prerequisites
 Before running the project, ensure that you have the following:
-- Flutter SDK installed (version 3.0.0 or higher).
+- Flutter SDK installed (version 3.24.3  or higher).
 - A configured Firebase project for both Android and iOS platforms.
 - Android Studio or Visual Studio Code with Flutter and Dart plugins.
 
