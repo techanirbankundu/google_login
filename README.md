@@ -1,16 +1,27 @@
-# google_login
+# Google Login - Flutter Application
 
-A new Flutter project.
+This Flutter project is a starting point for integrating **Google Sign-In** functionality in a mobile application. It demonstrates how to use the `google_sign_in` package to implement seamless Google authentication and sign-in for users.
+
+## Features
+- **Google Sign-In**: Allows users to sign in using their Google accounts.
+- **Firebase Authentication**: Leverages Firebase for secure authentication.
+- **Cross-Platform Support**: Compatible with both Android and iOS.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+Before running the project, ensure that you have the following:
+- Flutter SDK installed (version 3.0.0 or higher).
+- A configured Firebase project for both Android and iOS platforms.
+- Android Studio or Visual Studio Code with Flutter and Dart plugins.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/google_login_flutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgxi79UEaxbXHbwzaL3aqCaLoVu5GwJySIub9LKhv_w4cdh03bZjzzXRBXE0M9WBaI4x0FQn70XjP4lo3kSLp8F_aggnYTXNkYydWVv3TKJWqWTHFwPqBk3E6vaDKsjjQNXrWgpUHDTxBshNIIzx4RLW_wUb-PE70k2GAXQGJZmEbu_zU47YJz1BckHvzE" width="300px" /> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgPgJ8OzKAeuu4YHcbAhcXMIeBrvJGZExM2ECEwDOf66ofvG4yzHj1-Ib8WVpXgpo_w0jaYa8qksKbxiGzYFYRg3AsxFukGwF7lXIGsXVVFS9Z9SWS1oDx5f75akZaLEAqvAtWcqAQ1SEWAAZQsVTQEsmh5kyP4eGmTCPgBVyjuYsze1roZXJxKJ1zwy_o" width="300px" /> <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh-9uKL1Obt52SHHjL_4YHX-_bPPP7ZxWEog4UrY7iuT7vm4Cfh1XizLmdFdo4Wy78uRepxHZNOgfnMOYEjRMGuVtew_sXuDphKVpSJyl1KdI6JNoANzcsBSqasajJDwebLAw98dVgg_rqBPaBMoUP87uvLIRW1CqN8OSikTknXOQkVRshcfBCwgC8XNd0" width="300px" />
+
+
